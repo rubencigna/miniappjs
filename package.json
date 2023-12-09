@@ -1,0 +1,14 @@
+{
+  "name": "miniappjs",
+  "version": "1.0.0",
+  "description": "mini app nodejs express",
+  "main": "index.js",
+  "scripts": {
+    "test": "snyk test"
+  },
+  "author": "Ruben Djo Radja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
